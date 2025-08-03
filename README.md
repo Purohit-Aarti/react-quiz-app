@@ -73,4 +73,4 @@ This project is licensed under the MIT License.
 
 ## 🌐 Deployed Link
 
-Check out the live application: [React Quiz App](https://your-deployed-link.com)
+Check out the live application: [React Quiz App](https://purohitreactquizapp.netlify.app/)
