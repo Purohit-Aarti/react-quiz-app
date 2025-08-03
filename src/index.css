@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+}
+
+
+body {
+    height: 100vh;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/005/678/651/non_2x/blue-purple-abstract-line-blend-background-dynamic-wave-design-music-soundwave-header-element-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
