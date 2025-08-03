@@ -1,12 +1,76 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🧠 React Quiz App
 
-Currently, two official plugins are available:
+React Quiz App is a simple and interactive quiz application built using React. It presents multiple-choice questions to users and provides instant feedback, score tracking, and a final result summary.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📑 Table of Contents
 
-## Expanding the ESLint configuration
+- [Installation](#installation)  
+- [Usage](#usage)  
+- [Features](#features)  
+- [Components](#components)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Deployed Link](#deployed-link)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/react-quiz-app.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd react-quiz-app
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+## 🚀 Usage
+
+Start the development server:
+
+```bash
+npm start
+```
+
+Open your browser and navigate to:
+
+```
+http://localhost:3000
+```
+
+## ✨ Features
+
+- Responsive Design: Mobile-friendly and clean UI.
+- Question Navigation: Users can move to the next question after selecting an option.
+- Answer Validation: Correct and wrong answers are shown with color feedback.
+- Score Tracking: Tracks and displays user score at the end.
+- Restart Functionality: Allows the user to retake the quiz.
+
+## 🧩 Components
+
+- **Quiz**: Main component that handles rendering questions, options, score tracking, and result display.
+- **data.js**: Contains quiz question data with options and correct answers.
+- **quiz.css**: Styles the quiz layout and feedback colors (correct/wrong).
+
+For more details, please refer to the source code in the `src/components` and `src/assets` directories.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🌐 Deployed Link
+
+Check out the live application: [React Quiz App](https://purohitreactquizapp.netlify.app/)
