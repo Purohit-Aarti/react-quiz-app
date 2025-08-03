@@ -5,13 +5,13 @@ React Quiz App is a simple and interactive quiz application built using React. I
 
 ## 📑 Table of Contents
 
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Features](#features)  
-- [Components](#components)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Deployed Link](#deployed-link)  
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Features](#-features)
+- [Components](#-components)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Deployed Link](#-deployed-link)
 
 ## 🛠 Installation
 
@@ -73,4 +73,4 @@ This project is licensed under the MIT License.
 
 ## 🌐 Deployed Link
 
-Check out the live application: [React Quiz App](https://purohitreactquizapp.netlify.app/)
+Check out the live application: [React Quiz App](https://your-deployed-link.com)
